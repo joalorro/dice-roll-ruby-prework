@@ -5,5 +5,5 @@
 def roll
   # code goes here
   range = [1,2,3,4,5,6]
-  range[1+ rand(6)]
+  range[rand(5)]
 end
